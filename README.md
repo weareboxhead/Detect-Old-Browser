@@ -48,6 +48,8 @@ Specific features which you require the browser to support for it not to be cons
 
 ### forceWarning
 
+Type: `Boolean`
+
 Forces Detect Old Browser to show the warning message even if the browser is not determined as old. Useful for styling the warning banner / checking how it will display.
 
 ### debug
